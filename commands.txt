@@ -1,0 +1,12 @@
+Git practice quick reference
+
+git init
+git status
+git add README.md
+git add .
+git commit -m "Initial commit"
+git log --oneline
+git rm --cached <file>
+git mv <old-name> <new-name>
+git restore --staged <file>
+git restore <file>
